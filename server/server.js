@@ -39,12 +39,12 @@ const users = [
   {
     id: 1,
     username: 'Nolan',
-    password: 'agileprocess'
+    password: 'databasesrule'
   },
   {
     id: 2,
-    username: 'Mike',
-    password: 'stringerbell'
+    username: 'Daniil',
+    password: 'cssforlife'
   }
 ]
 
@@ -52,8 +52,8 @@ const posts = [
   {
     id: 1,
     user_id: 1,
-    title: "The empire did nothing wrong",
-    content: "Palpatine was just trying to bring order to the galaxy"
+    title: "PHP is the Best",
+    content: "Seriously though, I don't understand what all the hate is about!"
   },
   {
     id: 2,
@@ -64,13 +64,13 @@ const posts = [
   {
     id: 3,
     user_id: 2,
-    title: "Hamilton isn't so bad!",
-    content: "Seriously!"
+    title: "My Top 5 Tacos",
+    content: "1. Carnitas, 2. Fish, 3. Pollo, 4. Carne Asada, 5. Barbacoa"
   },
   {
     id: 4,
     user_id: 2,
-    title: "Blockchain",
+    title: "JavaScript is the best thing since sliced bread",
     content: "That's it, that's the post"
   }
 ];
