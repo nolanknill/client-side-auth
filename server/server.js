@@ -38,12 +38,12 @@ const authorize = (req, res, next) => {
 const users = [
   {
     id: 1,
-    username: 'Nolan',
+    username: 'nolan',
     password: 'databasesrule'
   },
   {
     id: 2,
-    username: 'Daniil',
+    username: 'daniil',
     password: 'cssforlife'
   }
 ]
